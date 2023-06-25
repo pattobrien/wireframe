@@ -1,0 +1,21 @@
+name: wireframe
+version: 0.0.1-dev.0
+description: >
+  Focus your attention on user experience by converting your beautiful
+  Flutter app into a low fidelity interface.
+
+environment:
+  sdk: ">=2.19.2 <4.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_fonts: ^4.0.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
